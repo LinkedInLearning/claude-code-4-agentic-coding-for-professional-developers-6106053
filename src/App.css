@@ -1,0 +1,27 @@
+:root {
+  --pico-font-family: "Mona Sans", sans-serif;
+  --pico-font-size: 1.4rem;
+  --pico-line-height: 1.2
+}
+
+body {
+  font-size: var(--pico-font-size);
+}
+
+h1 {
+  color: var(--pico-color-pink-500);
+  --pico-font-size: 2.7rem;
+  --pico-line-height: .8;
+  margin-top: 2rem;
+  margin-bottom: .5rem;
+}
+
+h1,h2,h3,h4,h5,h6 {
+  font-family: "Hubot Sans", sans-serif;
+  font-weight: 700;
+}
+
+b {
+  font-family: "Hubot Sans", sans-serif;
+  color: var(--pico-color-violet-500);
+}
