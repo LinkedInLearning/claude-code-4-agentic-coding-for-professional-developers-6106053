@@ -1,9 +1,11 @@
-# COURSENAME
-This is the repository for the LinkedIn Learning course `course-name`. The full course is available from [LinkedIn Learning][lil-course-url].
+# Claude Code 4: Agentic Coding for Professional Developers
+This is the repository for the LinkedIn Learning course `Claude Code 4: Agentic Coding for Professional Developers`. The full course is available from [LinkedIn Learning][lil-course-url].
 
 ![lil-thumbnail-url]
 
 ## Course Description
+
+Claude Code transforms the developer workflow with agentic AI built to understand and manipulate entire codebases. It performs real-time actions like refactoring, debugging, and generating commits using natural language. Skip the script juggling and documentation diving. Designed for serious developers, Claude Code eliminates friction and unlocks a smarter way to build software.
 
 _See the readme file in the main branch for updated instructions and information._
 ## Instructions
@@ -24,25 +26,20 @@ To resolve this issue:
     Add changes to git using this command: git add .
 	Commit changes using this command: git commit -m "some message"
 
-## Installing
-1. To use these exercise files, you must have the following installed:
-	- [list of requirements for course]
-2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
-3. [Course-specific instructions]
 
 ## Instructor
 
-Instructor name
+Ray Villalobos
 
-Instructor description
+Senior Staff Instructor at LinkedIn Learning
 
                             
 
-Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/).
+Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/ray-villalobos?u=104).
 
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 
-[lil-course-url]: https://www.linkedin.com/learning/
-[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4E0DAQG0eDHsyOSqTA/learning-public-crop_675_1200/B4EZVdqqdwHUAY-/0/1741033220778?e=2147483647&v=beta&t=FxUDo6FA8W8CiFROwqfZKL_mzQhYx9loYLfjN-LNjgA
+[lil-course-url]: https://www.linkedin.com/learning/claude-code-4-agentic-coding-for-professional-developers-asi
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4E0DAQFYoo2tZpobPQ/learning-public-crop_675_1200/B4EZejWKiRHwAc-/0/1750792186223?e=2147483647&v=beta&t=uh66nFI64GQIiDij7h3ykH4LrFnZRHvgOBz-B2uzgGE
 
