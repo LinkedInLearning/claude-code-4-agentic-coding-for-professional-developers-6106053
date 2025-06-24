@@ -29,13 +29,13 @@ To resolve this issue:
 
 ## Instructor
 
-Instructor name
+Ray Villalobos
 
-Instructor description
+Senior Staff Instructor at LinkedIn Learning
 
                             
 
-Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/).
+Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/ray-villalobos?u=104).
 
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
